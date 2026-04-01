@@ -1,5 +1,8 @@
 # Pulse
 
+![Demo](demo.gif)
+
+
 - edit: this is somewhat a successful example of interactive components
 
 To start your Phoenix server:
